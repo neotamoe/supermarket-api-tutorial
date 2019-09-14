@@ -1,0 +1,14 @@
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.csprojAssemblyReference.cache
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.csproj.CoreCompileInputs.cache
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.RazorAssemblyInfo.cache
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.RazorAssemblyInfo.cs
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.AssemblyInfoInputs.cache
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.AssemblyInfo.cs
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.deps.json
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.runtimeconfig.json
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.runtimeconfig.dev.json
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.dll
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/bin/Debug/netcoreapp2.2/Supermarket.API.pdb
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.RazorTargetAssemblyInfo.cache
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.dll
+/Users/neotamoe/Documents/supermarket-api-tutorial/src/Supermarket.API/obj/Debug/netcoreapp2.2/Supermarket.API.pdb
